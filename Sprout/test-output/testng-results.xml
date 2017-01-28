@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61318" started-at="2017-01-28T22:26:38Z" finished-at="2017-01-28T22:27:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61318" started-at="2017-01-28T22:26:38Z" finished-at="2017-01-28T22:27:39Z">
+      <class name="automationFramework.TwitterTesting">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TwitterTesting@1bce4f0a]" name="beforeMethod" is-config="true" duration-ms="2468" started-at="2017-01-28T16:26:38Z" finished-at="2017-01-28T16:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.TwitterTesting@1bce4f0a]" name="main" duration-ms="58726" started-at="2017-01-28T16:26:40Z" finished-at="2017-01-28T16:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TwitterTesting@1bce4f0a]" name="afterMethod" is-config="true" duration-ms="110" started-at="2017-01-28T16:27:39Z" finished-at="2017-01-28T16:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.TwitterTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

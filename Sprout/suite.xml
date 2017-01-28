@@ -1,0 +1,7 @@
+<suite name="Test Suite" >
+ <test name="Twitter">
+  <classes>
+   <class name="automationFramework.TwitterTesting" />
+  </classes>
+ </test>
+</suite>
